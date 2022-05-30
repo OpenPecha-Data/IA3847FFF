@@ -1,0 +1,26 @@
+id: IA3847FFF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:03:26.688142'
+last_modified: '2022-05-31T05:03:26.688149'
+parser: null
+source_metadata:
+  title: Lhodrak Namkha Gyaltsen
+  language: fr
+  description: 'Texts by Lhodrak Namkha Gyaltsen (lho brag nam mkha'' rgyal mtshan,
+    1326–1401), also known as Drupchen Lekyi Dorje (grub chen las kyi rdo rje), who
+    was a teacher of Tsongkhapa Lobzang Drakpa:'
+  volume:
+    f4488:
+      title: Averting Obstacles through Sitātapatrā
+      base_file: f4488.txt
+      order: 1
+      parent: Averting Obstacles
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
